@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as h}from"./chunks/framework.DCKU21so.js";const c=JSON.parse('{"title":"数组的扩展","description":"","frontmatter":{},"headers":[],"relativePath":"array.md","filePath":"array.md"}'),n={name:"array.md"},k=h("",260),p=[k];function l(t,e,E,d,r,g){return a(),i("div",null,p)}const F=s(n,[["render",l]]);export{c as __pageData,F as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as h}from"./chunks/framework.DCKU21so.js";const y=JSON.parse('{"title":"正则的扩展","description":"","frontmatter":{},"headers":[],"relativePath":"regex.md","filePath":"regex.md"}'),n={name:"regex.md"},t=h("",197),k=[t];function p(l,e,d,r,E,g){return a(),i("div",null,k)}const c=s(n,[["render",p]]);export{y as __pageData,c as default};

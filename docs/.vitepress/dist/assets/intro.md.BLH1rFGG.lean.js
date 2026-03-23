@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as e}from"./chunks/framework.DCKU21so.js";const F=JSON.parse('{"title":"ECMAScript 6 简介","description":"","frontmatter":{},"headers":[],"relativePath":"intro.md","filePath":"intro.md"}'),p={name:"intro.md"},t=e("",86),n=[t];function l(h,k,r,d,c,o){return a(),i("div",null,n)}const E=s(p,[["render",l]]);export{F as __pageData,E as default};

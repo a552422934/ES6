@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const y=JSON.parse('{"title":"Class 的基本语法","description":"","frontmatter":{},"headers":[],"relativePath":"class.md","filePath":"class.md"}'),h={name:"class.md"},p=n("",212),l=[p];function k(t,e,E,d,r,g){return a(),i("div",null,l)}const o=s(h,[["render",k]]);export{y as __pageData,o as default};

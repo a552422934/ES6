@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const c=JSON.parse('{"title":"async 函数","description":"","frontmatter":{},"headers":[],"relativePath":"async.md","filePath":"async.md"}'),h={name:"async.md"},k=n("",162),p=[k];function l(t,e,E,d,r,g){return a(),i("div",null,p)}const o=s(h,[["render",l]]);export{c as __pageData,o as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const F=JSON.parse('{"title":"编程风格","description":"","frontmatter":{},"headers":[],"relativePath":"style.md","filePath":"style.md"}'),h={name:"style.md"},p=n("",91),k=[p];function l(t,e,E,d,r,g){return a(),i("div",null,k)}const c=s(h,[["render",l]]);export{F as __pageData,c as default};

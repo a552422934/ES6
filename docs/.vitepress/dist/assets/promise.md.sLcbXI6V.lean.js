@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const o=JSON.parse('{"title":"Promise 对象","description":"","frontmatter":{},"headers":[],"relativePath":"promise.md","filePath":"promise.md"}'),h={name:"promise.md"},k=n("",230),p=[k];function l(t,e,E,d,r,g){return a(),i("div",null,p)}const y=s(h,[["render",l]]);export{o as __pageData,y as default};

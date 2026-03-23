@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as h}from"./chunks/framework.DCKU21so.js";const F=JSON.parse('{"title":"函数式编程","description":"","frontmatter":{},"headers":[],"relativePath":"fp.md","filePath":"fp.md"}'),k={name:"fp.md"},n=h("",49),p=[n];function l(t,E,e,d,r,g){return a(),i("div",null,p)}const c=s(k,[["render",l]]);export{F as __pageData,c as default};

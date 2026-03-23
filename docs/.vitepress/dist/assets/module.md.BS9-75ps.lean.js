@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const g=JSON.parse('{"title":"Module 的语法","description":"","frontmatter":{},"headers":[],"relativePath":"module.md","filePath":"module.md"}'),p={name:"module.md"},h=n("",211),t=[h];function l(k,e,d,r,E,o){return a(),i("div",null,t)}const y=s(p,[["render",l]]);export{g as __pageData,y as default};

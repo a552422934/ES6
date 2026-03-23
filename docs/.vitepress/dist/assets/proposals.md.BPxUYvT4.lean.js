@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const c=JSON.parse('{"title":"最新提案","description":"","frontmatter":{},"headers":[],"relativePath":"proposals.md","filePath":"proposals.md"}'),h={name:"proposals.md"},p=n("",126),k=[p];function t(l,e,E,d,r,g){return a(),i("div",null,k)}const o=s(h,[["render",t]]);export{c as __pageData,o as default};
