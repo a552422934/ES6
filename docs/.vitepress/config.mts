@@ -2,12 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ES6/',
   title: "ES6",
   description: "es6入门教程",
-  head: [['link', { rel: 'icon', href: '../images/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'images/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '../images/favicon.ico',
+    logo: 'images/favicon.ico',
     nav: [
       { text: '首页', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }
