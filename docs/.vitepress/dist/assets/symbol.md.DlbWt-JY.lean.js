@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const o=JSON.parse('{"title":"Symbol","description":"","frontmatter":{},"headers":[],"relativePath":"symbol.md","filePath":"symbol.md"}'),h={name:"symbol.md"},l=n("",177),p=[l];function k(t,e,E,d,r,y){return a(),i("div",null,p)}const c=s(h,[["render",k]]);export{o as __pageData,c as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const F=JSON.parse('{"title":"装饰器","description":"","frontmatter":{},"headers":[],"relativePath":"decorator.md","filePath":"decorator.md"}'),h={name:"decorator.md"},l=n("",212),p=[l];function k(t,e,E,d,r,g){return a(),i("div",null,p)}const c=s(h,[["render",k]]);export{F as __pageData,c as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const y=JSON.parse('{"title":"字符串的扩展","description":"","frontmatter":{},"headers":[],"relativePath":"string.md","filePath":"string.md"}'),h={name:"string.md"},l=n("",136),t=[l];function p(k,e,d,E,r,g){return a(),i("div",null,t)}const c=s(h,[["render",p]]);export{y as __pageData,c as default};

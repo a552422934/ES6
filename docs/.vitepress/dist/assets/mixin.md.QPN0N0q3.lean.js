@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const o=JSON.parse('{"title":"Mixin","description":"","frontmatter":{},"headers":[],"relativePath":"mixin.md","filePath":"mixin.md"}'),h={name:"mixin.md"},t=n("",24),k=[t];function l(p,e,E,d,r,g){return a(),i("div",null,k)}const y=s(h,[["render",l]]);export{o as __pageData,y as default};

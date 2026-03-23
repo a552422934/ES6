@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DCKU21so.js";const c=JSON.parse('{"title":"Proxy","description":"","frontmatter":{},"headers":[],"relativePath":"proxy.md","filePath":"proxy.md"}'),h={name:"proxy.md"},p=n("",204),k=[p];function l(t,e,E,r,d,g){return a(),i("div",null,k)}const o=s(h,[["render",l]]);export{c as __pageData,o as default};
